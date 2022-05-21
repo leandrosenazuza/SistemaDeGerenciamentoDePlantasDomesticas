@@ -1,0 +1,3 @@
+Resumo: A ideia do projeto é criar um sistema em que se possa gerenciar a existência e manejo de plantas de um ambiente doméstico.
+
+Tecnologia: Como linguagem de programação, a ideia é utilizar de linguagem de Programação Java, acesso ao banco de dados via JPA e comunicação com a sistemas Web via framework spring boot.
