@@ -1,3 +1,4 @@
-Resumo: A ideia do projeto é criar um sistema em que se possa gerenciar a existência e manejo de plantas de um ambiente doméstico.
+# SistemaDeGerenciamentoDePlantasDomesticas
+<b>Desenvolvimento de um sistema voltando para o gerenciamento de plantas domésticas.</b>
 
-Tecnologia: Como linguagem de programação, a ideia é utilizar de linguagem de Programação Java, acesso ao banco de dados via JPA e comunicação com a sistemas Web via framework spring boot.
+O usuário poderá cadastrar no sistema todas as plantas que possui em sua casa e gerenciar informações relacionado aos cuidados da planta, de modo a otimizar o manejo das mesmas. Será utilizado para tanto tecnologia Java, Banco de dados Oracle DB.
